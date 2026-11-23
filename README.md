@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Thais Ferreira
 
-💻 Desenvolvedora de Software Multiplataforma  
+💻 Desenvolvedora de Software Multiplataforma
 🚀 Apaixonada por tecnologia, inovação e design  
 <!--
 **thaisferreira-moura/thaisferreira-moura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
